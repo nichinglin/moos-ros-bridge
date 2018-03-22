@@ -15,7 +15,7 @@ http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6107001&isnumber=6106891
 Most of the installation / usage documentation has been moved to INSTALL.md
 
 Older Documentation is located at
-moos-ros-bridge/moosros/docs/moosrosbridge.pdf
+tutorial.pdf
 
 See INSTALL.md for installation notes.
 
